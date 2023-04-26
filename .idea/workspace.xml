@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9b3b00aa-0fb2-409c-8c74-a01fddda0866" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/script.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/script.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +36,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -51,7 +54,10 @@
       <workItem from="1682086250987" duration="6583000" />
       <workItem from="1682162929363" duration="1273000" />
       <workItem from="1682176322598" duration="3291000" />
-      <workItem from="1682323761806" duration="7437000" />
+      <workItem from="1682323761806" duration="8851000" />
+      <workItem from="1682429030476" duration="5041000" />
+      <workItem from="1682501440457" duration="2960000" />
+      <workItem from="1682508125254" duration="1906000" />
     </task>
     <servers />
   </component>
@@ -59,6 +65,10 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="277" y="55" key="SettingsEditor" timestamp="1682508321037">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="277" y="55" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1682508321037" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1682327538939">
       <screen x="0" y="0" width="1536" height="824" />
     </state>

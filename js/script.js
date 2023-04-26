@@ -1,21 +1,22 @@
 
 const swiper = new Swiper('.swiper', {
-    slidesPerView: 3,
-    direction: getDirection(),
+    // Optional parameters
+
+    loop: true,
+
+    // If we need pagination
+    pagination: {
+        el: '.swiper-pagination',
+    },
+
+    // Navigation arrows
     navigation: {
         nextEl: '.swiper-button-next',
         prevEl: '.swiper-button-prev',
     },
-    on: {
-        resize: function () {
-            swiper.changeDirection(getDirection());
-        },
+
+    // And if we need scrollbar
+    scrollbar: {
+        el: '.swiper-scrollbar',
     },
 });
-
-function getDirection() {
-    const windowWidth = window.innerWidth;
-    const direction = window.innerWidth <= 760 ? 'vertical' : 'horizontal';
-
-    return direction;
-}
